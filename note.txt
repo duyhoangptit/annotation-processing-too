@@ -1,0 +1,4 @@
+https://o7planning.org/vi/10303/tuy-bien-trinh-bien-dich-java-xu-ly-annotation-cua-ban-annotation-processing-tool
+
+1. Add thêm vào phần thư viện
+2. Vào javacomplier thêm vào phần annotation processing
